@@ -1,7 +1,7 @@
 [English](https://github.com/LYingSiMon/FpsCheatLearning/blob/main/README_ENG.md)
 
 # FpsCheatLearning
-这是一个 fps 单机游戏逆向练习项目，使用 imgui 绘制。（This is a reverse practice project for fps single player games, drawn using imgui.）
+这是一个 fps 单机游戏逆向练习项目，使用 imgui 绘制
 
 # 游戏获取
 CS:起源, 链接：https://pan.quark.cn/s/665474992123
