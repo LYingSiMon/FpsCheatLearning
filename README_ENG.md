@@ -1,3 +1,5 @@
+[中文](https://github.com/LYingSiMon/FpsCheatLearning/blob/main/README.md)
+
 # FpsCheatLearning
 This is a reverse practice project for fps single player games, drawn using imgui
 
