@@ -12,7 +12,7 @@ CS:起源, 链接：https://pan.quark.cn/s/665474992123
 - 使用矩阵将玩家坐标转为屏幕坐标
 - 使用 imgui 外部绘制，针对敌人和队友，画出不同颜色的方框
 
-![image](https://github.com/LYingSiMon/FpsCheatLearning/assets/51651107/dddd743c-f093-472b-8d80-51be674675ec)
+![image](https://github.com/LYingSiMon/FpsCheatLearning/assets/51651107/ca528bd1-0b0d-430d-a326-1c4eace8494b)
 
 ![image](https://github.com/LYingSiMon/FpsCheatLearning/assets/51651107/80cb8048-c96b-4d73-a285-597fa44dd1a5)
 
