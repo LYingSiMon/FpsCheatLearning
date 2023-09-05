@@ -12,7 +12,8 @@ CS:Source, lnk：https://pan.quark.cn/s/665474992123
 - Using a matrix to convert player coordinates to screen coordinates
 - Use IMGUI external drawing to draw different colored boxes for enemies and teammates
 
-![image](https://github.com/LYingSiMon/FpsCheatLearning/assets/51651107/dddd743c-f093-472b-8d80-51be674675ec)
+![image](https://github.com/LYingSiMon/FpsCheatLearning/assets/51651107/2e1765d7-b6b5-4115-a1c6-01ca643207f1)
+
 
 ![image](https://github.com/LYingSiMon/FpsCheatLearning/assets/51651107/80cb8048-c96b-4d73-a285-597fa44dd1a5)
 
